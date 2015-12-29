@@ -141,6 +141,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     lights.msm8974
 
+# Doze
+PRODUCT_PACKAGES += \
+    G2Doze
+
 # OMX
 PRODUCT_PACKAGES += \
     libc2dcolorconvert \
