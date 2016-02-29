@@ -4,15 +4,15 @@
     "target_path": "device/qcom/common"
   },
   {
-    "repository": "TeamExodus/kernel_lge_msm8974",
+    "repository": "usmcamgrimm/kernel_lge_msm8974",
     "target_path": "kernel/lge/msm8974"
   },
   {
-    "repository": "CyanogenMod/android_external_stlport",
+    "repository": "TeamExodus/external_stlport",
     "target_path": "external/stlport"
   },
   {
-    "repository": "CyanogenMod/android_external_sony_boringssl-compat",
+    "repository": "TeamExodus/external_sony_boringssl-compat",
     "target_path": "external/sony/boringssl-compat"
   }
 ]
